@@ -1,3 +1,2 @@
-xtFred Botchway Entsie
-fe089421
-# git-lab
+fred Botchway Entsie
+fe089421@ohio.edu
